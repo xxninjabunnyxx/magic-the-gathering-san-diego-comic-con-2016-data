@@ -1,0 +1,124 @@
+---
+object: card
+id: e8df73e7-c8a8-46bc-8448-f4d8179aeb4f
+oracle_id: 0c2a9131-f3d7-4f71-8bcc-3c169574b2e3
+multiverse_ids: []
+tcgplayer_id: 120964
+cardmarket_id: 291359
+name: Chandra, Flamecaller
+lang: en
+released_at: '2016-10-01'
+uri: https://api.scryfall.com/cards/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f
+scryfall_uri: https://scryfall.com/card/ps16/104/chandra-flamecaller?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357
+  normal: https://cards.scryfall.io/normal/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357
+  large: https://cards.scryfall.io/large/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357
+  png: https://cards.scryfall.io/png/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.png?1561758357
+  art_crop: https://cards.scryfall.io/art_crop/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357
+  border_crop: https://cards.scryfall.io/border_crop/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Legendary Planeswalker — Chandra
+oracle_text: |-
+  +1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+  0: Discard all the cards in your hand, then draw that many cards plus one.
+  −X: Chandra, Flamecaller deals X damage to each creature.
+loyalty: '4'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: e8df73e7-c8a8-46bc-8448-f4d8179aeb4f
+  component: combo_piece
+  name: Chandra, Flamecaller
+  type_line: Legendary Planeswalker — Chandra
+  uri: https://api.scryfall.com/cards/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f
+- object: related_card
+  id: 9d952cde-4b40-4a05-833e-029da3554c6d
+  component: token
+  name: Elemental
+  type_line: Token Creature — Elemental
+  uri: https://api.scryfall.com/cards/9d952cde-4b40-4a05-833e-029da3554c6d
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: b522ae3f-4980-4685-9702-b3360e05ed61
+set: ps16
+set_name: San Diego Comic-Con 2016
+set_type: promo
+set_uri: https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c2a9131-f3d7-4f71-8bcc-3c169574b2e3&unique=prints
+collector_number: '104'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 72ec0be7-9016-46ab-a922-e3c6db927028
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 4397
+penny_rank: 1104
+prices:
+  usd: 
+  usd_foil: '28.01'
+  usd_etched: 
+  eur: 
+  eur_foil: '27.90'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chandra%2C+Flamecaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chandra%2C+Flamecaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chandra%2C+Flamecaller
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/120964?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%2C+Flamecaller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Flamecaller&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

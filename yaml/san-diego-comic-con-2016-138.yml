@@ -1,0 +1,123 @@
+---
+object: card
+id: 539fcda3-158e-425d-9f00-b9f3420dba18
+oracle_id: b0f36bf7-bdde-4576-9eca-ec02d41326ab
+multiverse_ids: []
+tcgplayer_id: 120962
+cardmarket_id: 291362
+name: Nissa, Voice of Zendikar
+lang: en
+released_at: '2016-10-01'
+uri: https://api.scryfall.com/cards/539fcda3-158e-425d-9f00-b9f3420dba18
+scryfall_uri: https://scryfall.com/card/ps16/138/nissa-voice-of-zendikar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144
+  normal: https://cards.scryfall.io/normal/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144
+  large: https://cards.scryfall.io/large/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144
+  png: https://cards.scryfall.io/png/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.png?1561757144
+  art_crop: https://cards.scryfall.io/art_crop/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144
+  border_crop: https://cards.scryfall.io/border_crop/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Legendary Planeswalker — Nissa
+oracle_text: |-
+  +1: Create a 0/1 green Plant creature token.
+  −2: Put a +1/+1 counter on each creature you control.
+  −7: You gain X life and draw X cards, where X is the number of lands you control.
+loyalty: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 539fcda3-158e-425d-9f00-b9f3420dba18
+  component: combo_piece
+  name: Nissa, Voice of Zendikar
+  type_line: Legendary Planeswalker — Nissa
+  uri: https://api.scryfall.com/cards/539fcda3-158e-425d-9f00-b9f3420dba18
+- object: related_card
+  id: f7164476-4a93-4295-9ac4-33e1677b09b8
+  component: token
+  name: Plant
+  type_line: Token Creature — Plant
+  uri: https://api.scryfall.com/cards/f7164476-4a93-4295-9ac4-33e1677b09b8
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: b522ae3f-4980-4685-9702-b3360e05ed61
+set: ps16
+set_name: San Diego Comic-Con 2016
+set_type: promo
+set_uri: https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/539fcda3-158e-425d-9f00-b9f3420dba18/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0f36bf7-bdde-4576-9eca-ec02d41326ab&unique=prints
+collector_number: '138'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: e6239e6a-f6cc-4720-b211-627c702e363c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 2282
+prices:
+  usd: 
+  usd_foil: '33.41'
+  usd_etched: 
+  eur: 
+  eur_foil: '42.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nissa%2C+Voice+of+Zendikar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nissa%2C+Voice+of+Zendikar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nissa%2C+Voice+of+Zendikar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/120962?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nissa%2C+Voice+of+Zendikar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nissa%2C+Voice+of+Zendikar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

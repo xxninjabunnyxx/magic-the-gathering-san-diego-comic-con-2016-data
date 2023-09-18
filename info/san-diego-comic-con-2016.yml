@@ -1,0 +1,15 @@
+---
+object: set
+id: b522ae3f-4980-4685-9702-b3360e05ed61
+code: ps16
+name: San Diego Comic-Con 2016
+uri: https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61
+scryfall_uri: https://scryfall.com/sets/ps16
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aps16&unique=prints
+released_at: '2016-10-01'
+set_type: promo
+card_count: 5
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
